@@ -231,24 +231,6 @@ Users can:
 
 ---
 
-## 📸 Demo
-
-Add screenshots or a GIF here showing:
-
-- Flask interface
-- Keyframe selection
-- Generated PDF
-
-Example:
-
-```
-assets/demo.gif
-assets/interface.png
-assets/output.pdf
-```
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
@@ -257,11 +239,6 @@ Feel free to open an issue or submit a pull request if you have ideas for improv
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
 
 ## ⭐ Support
 
